@@ -13,6 +13,7 @@
   Built with TF-IDF vectorization and Logistic Regression, wrapped in an interactive Streamlit UI.
 </p>
 
+🔗 **Live Demo:** [emotion-detector-pranjal-pandey.streamlit.app](https://emotion-detector-pranjal-pandey.streamlit.app/)
 ---
 
 ## 📌 Table of Contents
